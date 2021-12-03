@@ -9,7 +9,7 @@ function openFile(){
         }, function(err){
             console.log('Error occured reading file');
         }
-  );
+    );
 }
 
 // Part 1
